@@ -1,8 +1,19 @@
 ### 👋 hi! my name is Noah!
+But, i go by ixNoah on most platforms.  
+I'm a [streamer on Twitch](https://twitch.tv/ixnoahlive) and i also make [YouTube videos](https://youtube.com/ixnoah).
+### ✨ stuff im proud of!
+- ⏰ [Minecraft Update Countdown](https://minecraft.ixnoah.repl.co/)
+- 🔮 [My API](https://api.ixnoah.repl.co/ "It's literally just random crap.")
+- 🎉 [RoboTop Guide](https://robotopdocs.ixnoah.repl.co/)
+### 🎀 tools/languages that i use!
 
-**i'm some nerd who likes to code, play games and make videos.**    
-if you wanna contact me then you're out of luck since i don't know how to make a good way to contact me.  
-### i can code in:
-🌕 Lua
-💛 Javascript
-💎 HTML/CSS (Not coding but still)
+**Tools**
+- Visual Studio Code
+- Replit
+- Stack Overflow    
+
+**Languages**
+- JavaScript
+- Lua
+- HTML
+- CSS
