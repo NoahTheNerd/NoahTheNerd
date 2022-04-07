@@ -9,7 +9,7 @@ I'm a [streamer on Twitch](https://twitch.tv/ixnoahlive) and i also make [YouTub
 
 **Tools**
 - Visual Studio Code
-- Replit
+- Replit (only when im way too fucking lazy)
 - Stack Overflow    
 
 **Languages**
