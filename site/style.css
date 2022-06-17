@@ -1,0 +1,76 @@
+body {
+    font-family: sans-serif;
+    background-color: #2f3136;
+    color: rgb(22, 207, 223);
+    transition: 0.5s;
+    padding: 10%
+}
+h1 {
+    text-align: left;
+    font-family: monospace;
+    font-weight: 100;
+}
+sb {
+    font-weight: 900;
+}
+h4 {
+    color: #8f9196;
+    text-align:center;
+    font-family: monospace;
+    font-weight: 10
+}
+a {
+    color: aqua;
+    text-align:center;
+    font-family: monospace;
+    text-decoration: none;
+    transition: .2s;
+    line-height: 200%
+}
+a:hover {
+    transition: .2s;
+    color: teal;
+    filter: brightness(165%);
+    transform:translateY(-7%)
+}
+/*i mean like js is boring to do but if you wanna do it like that sure*/
+/* 🤓 */
+/* i can make it in js for you if you want */
+/* sure just make it look good */
+.typing-demo {
+  padding: 0.1em;
+  padding-top: none;
+  padding-bottom: none;
+    /* width: 22ch; */
+    /* animation: typing 2s steps(22), blink .5s step-end infinite alternate; */
+    animation: blink .5s step-end infinite alternate;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 3px solid;
+    user-select: none;
+}
+.typing-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+  
+.center {
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+    
+@keyframes blink {
+  50% {
+    border-color: transparent
+  }
+}
+@keyframes fadein {
+  0% {
+    filter: opacity(0%)
+  }
+  100% {
+    filter: opacity(100%)
+  }
+}

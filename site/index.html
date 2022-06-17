@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js" crossorigin="anonymous"></script>
+        <script>
+            window.onload = function() {        
+                twemoji.parse(document.body, 
+                        {folder: 'svg', ext: '.svg'}
+                );
+            }
+        </script>
+        <style>
+            img.emoji {
+                width:1.5em;
+                pointer-events: none; 
+                padding-left: 0.4em;
+                padding-right: 0.4em;
+                margin: -0.5em;
+                transform: scale(92%)
+            }
+        </style>
+    <body>
+        <a href="https://www.rd.com/wp-content/uploads/2021/04/GettyImages-1165332891-scaled.jpg">.</a>
+        <div class="typing-container">
+            <!-- <h1 class="typing-demo" id="typed-text">hi, my name's <sb style="filter: brightness(500%)">noah</sb></h1> -->
+            <h1 class="typing-demo" id="typed-text"></h1>
+        </div>
+        <div class="center">
+            <h4>streamer, programmer & businessman</h4>
+        </div>
+        <div class="center">
+            <a href="https://twitch.tv/ixnoahlive">Twitch</a><br><h4>ㅤ</h4><a href="https://youtube.com/ixnoah">YouTube</a>
+        </div>
+        
+    </body>
+    <script src="script.js"></script>
+    </head>
+</html>
