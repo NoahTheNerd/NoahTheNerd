@@ -41,6 +41,7 @@ Now, edit the Java Executable field to your file path which you saved earlier. R
 
 ![image](https://github.com/NoahTheNerd/NoahTheNerd/assets/70314622/77e4fffc-4a0d-4f61-a80f-a8e540187b69)
 
+🎉 You installed Temurin for Minecraft, yay!
 
 ### Prism Launcher/MultiMC
 This part of the guide will use Prism Launcher for the example as it's the most optimised MultiMC fork.
@@ -54,3 +55,5 @@ From here, in the new popup navigate to <kbd>Settings</kbd> and enable your "Jav
 Edit the text in the text box to the file path in the screenshot you took earlier. Click the <kbd>Test</kbd> button to see if it works. If it doesn't, double check your file path or try reinstalling Temurin.
 
 ![image](https://github.com/NoahTheNerd/NoahTheNerd/assets/70314622/4e8ae0f4-3481-485e-9683-c84959917a6d)
+
+🎉 You installed Temurin for Minecraft, yay!
