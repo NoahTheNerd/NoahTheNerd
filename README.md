@@ -1,3 +1,3 @@
-subscribe to ixnoah
+i code shit!
 
-[check out my website](ixnoah.live)
+[check out my website](https://ixnoah.live)
